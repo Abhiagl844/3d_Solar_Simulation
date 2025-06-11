@@ -45,9 +45,9 @@ A stunning **3D Solar System Simulator** built using [Three.js](https://threejs.
 ---
 
 ## 📸 Screenshots
-![Screenshot](Screenshot_3.png)
+![Screenshot](Screenshot_1.png)
 
-![Screenshot](Screenshot_6.png)
+![Screenshot](Screenshot_2.png)
 
 🔹 Experience the Solar System like never before!
 ---
